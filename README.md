@@ -1,5 +1,7 @@
 # Challenge-01
 
+Challenge is to replace non-semantic tags with semantic ones.
+
 Changes made
 
 *I Replaced the first div tag with a header tag.
